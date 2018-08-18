@@ -1,7 +1,8 @@
 {
-  "name": "new-static-redirect",
+  "name": "now-static-redirect",
   "version": "1.0.0",
   "license": "MIT",
+  "author": "Nathaniel Hill <nata@goguna.com>",
   "now": {
     "type": "static",
     "alias": "<your-source-domain>",
