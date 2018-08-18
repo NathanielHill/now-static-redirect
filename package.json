@@ -1,0 +1,17 @@
+{
+  "name": "new-static-redirect",
+  "version": "1.0.0",
+  "license": "MIT",
+  "now": {
+    "type": "static",
+    "alias": "<your-source-domain>",
+    "static": {
+      "redirects": [
+        {
+          "source": "/*",
+          "destination": "https://<your-destination-domain>"
+        }
+      ]
+    }
+  }
+}
