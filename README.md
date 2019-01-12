@@ -1,3 +1,5 @@
+**DO NOT USE, DEPRECATED. Use https://github.com/NathanielHill/zeit-redirect-demo instead**
+
 # now-static-redirect
 
 ## Usage
