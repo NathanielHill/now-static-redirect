@@ -1,0 +1,10 @@
+"now": {
+  "type": "static",
+  "alias": "<your-source-domain>",
+  "static": {
+    "redirects": [{
+      "source": "/*",
+      "destination": "https://<your-destination-domain>"
+    }]
+  }
+}
